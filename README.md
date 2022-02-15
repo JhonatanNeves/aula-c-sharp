@@ -1,6 +1,6 @@
 # Aula de C#
 
-<p>Conhecendo o C# / Estrutura de programa.<p>
+<p>Conhecendo o C# / Estrutura de programa.Onde consegui executar a função DEBUG.<p>
 
 ### Features
 
